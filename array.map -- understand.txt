@@ -1,0 +1,13 @@
+array.map -- understand
+
+
+
+next.js
+
+
+
+typescript -no 
+escript - yes
+tailwindcss - yes
+src - no
+expermintal/app/dir - no
